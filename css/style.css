@@ -1,11 +1,11 @@
-.bannerBgImage {
+#bannerBgImage {
     height: 100vh;
     background: url("images/image.jpg");
     background-size: cover;
     position: relative;
 }
 
-.bannerText {
+#bannerText {
     text-align: left;
     position: absolute;
     top: 50%;
